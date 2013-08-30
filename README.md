@@ -11,13 +11,16 @@ Download the generate_homework.sh by itself:
 $ curl -O https://raw.github.com/pfista/hwgen/master/generate_homework.sh
 ```
 
-or clone the repository like so:
+*or* clone the repository like so:
 
 ```
 $ git clone https://github.com/pfista/hwgen.git
 ```
 
-
+then just make the script executable:
+```
+chmod +x generate_homework.sh
+```
 
 ###Usage
 To use it first open `generate_homework.sh` and edit the variables at the top with your personal info.
